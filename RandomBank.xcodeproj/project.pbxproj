@@ -12,6 +12,8 @@
 		4282BF471E26CE1F00417626 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4282BF451E26CE1F00417626 /* Main.storyboard */; };
 		4282BF491E26CE1F00417626 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4282BF481E26CE1F00417626 /* Assets.xcassets */; };
 		4282BF4C1E26CE1F00417626 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4282BF4A1E26CE1F00417626 /* LaunchScreen.storyboard */; };
+		4282BF541E26CFF800417626 /* Rakoon_PersonalUse.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4282BF531E26CFF800417626 /* Rakoon_PersonalUse.ttf */; };
+		4282BF561E26D43900417626 /* PoetsenOne-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4282BF551E26D43900417626 /* PoetsenOne-Regular.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		4282BF481E26CE1F00417626 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4282BF4B1E26CE1F00417626 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4282BF4D1E26CE1F00417626 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4282BF531E26CFF800417626 /* Rakoon_PersonalUse.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Rakoon_PersonalUse.ttf; sourceTree = "<group>"; };
+		4282BF551E26D43900417626 /* PoetsenOne-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "PoetsenOne-Regular.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +64,8 @@
 				4282BF481E26CE1F00417626 /* Assets.xcassets */,
 				4282BF4A1E26CE1F00417626 /* LaunchScreen.storyboard */,
 				4282BF4D1E26CE1F00417626 /* Info.plist */,
+				4282BF531E26CFF800417626 /* Rakoon_PersonalUse.ttf */,
+				4282BF551E26D43900417626 /* PoetsenOne-Regular.ttf */,
 			);
 			path = RandomBank;
 			sourceTree = "<group>";
@@ -123,9 +129,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4282BF541E26CFF800417626 /* Rakoon_PersonalUse.ttf in Resources */,
 				4282BF4C1E26CE1F00417626 /* LaunchScreen.storyboard in Resources */,
 				4282BF491E26CE1F00417626 /* Assets.xcassets in Resources */,
 				4282BF471E26CE1F00417626 /* Main.storyboard in Resources */,
+				4282BF561E26D43900417626 /* PoetsenOne-Regular.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
